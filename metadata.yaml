@@ -1,0 +1,30 @@
+_repo: Heinosen-perhe-huvimatkallaHuvin-ytelm--2-ssa-n-yt-ksess-_43018
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hodell, Frans
+    alias: Hodell, Frans Oscar Leonard
+    birthdate: 1840
+    deathdate: 1890
+    gutenberg_agent_id: '32069'
+    url: http://www.gutenberg.org/2009/agents/32069
+    wikipedia: http://sv.wikipedia.org/wiki/Frans_Hodell
+description: ''
+gutenberg_issued: '2013-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43018'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Swedish drama -- Translations into Finnish'
+title: 'Heinosen perhe huvimatkalla
+
+  Huvinäytelmä 2:ssa näytöksessä'
+url: http://www.gutenberg.org/ebooks/43018
